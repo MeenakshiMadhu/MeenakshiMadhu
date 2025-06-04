@@ -7,7 +7,7 @@
 
 I'm currently diving into **[Swift](https://www.swift.org/)** and working with an amazing team to build an iOS [app](https://www.linkedin.com/company/thebukuapp/) designed specifically for college students - super excited about this project! 🚀  
 
-My goal is to keep leveling up my skills and continuously explore new technologies and ideas. 💡
+My goal is to keep leveling up my skills and continuously explore new technologies and ideas.
 
 ---
 
