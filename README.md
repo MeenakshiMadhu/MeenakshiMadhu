@@ -11,7 +11,7 @@ My goal is to keep leveling up my skills and continuously explore new technologi
 
 ---
 
-## 🎶 Outside the Code...
+## 🎶 Outside Tech...
 
 When I'm not coding, you’ll probably find me:
 
