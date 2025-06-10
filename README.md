@@ -1,4 +1,4 @@
-# Hi there! I'm Meenakshi Madhu 👋
+# Hi there! I'm Meenakshi 👋
 
 🎓 Computer Science graduate student at [New York University](https://www.nyu.edu/)  
 👩‍💼 Former Software Developer at [Citi](https://www.linkedin.com/company/citi-india/)
