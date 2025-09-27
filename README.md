@@ -1,7 +1,7 @@
 # Hi there! I'm Meenakshi 👋
 
 🎓 Computer Science graduate student at [New York University](https://www.nyu.edu/)  
-👩‍💼 Former Software Developer at [Citi](https://www.linkedin.com/company/citi-india/)
+👩‍💼 Ex Software Developer at [Citi](https://www.linkedin.com/company/citi-india/)
 
 ---
 
