@@ -4,13 +4,7 @@ CS graduate student at [New York University](https://www.nyu.edu/)
 Ex Software Developer at [Citi](https://www.linkedin.com/company/citi-india/)
 
 ---
-
-I'm currently diving into **[Swift](https://www.swift.org/)** and working with an amazing team to build an iOS [app](https://www.linkedin.com/company/thebukuapp/) designed specifically for college students - super excited about this project!
-
-My goal is to continually level up my skills and explore new technologies and ideas.
-
----
-## Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,7 +37,7 @@ My goal is to continually level up my skills and explore new technologies and id
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-## GitHub Stats:
+### GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=MeenakshiMadhu&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
@@ -51,7 +45,7 @@ My goal is to continually level up my skills and explore new technologies and id
 ![LeetCode Stats](https://leetcard.jacoblin.cool/meenakshimadhu00?theme=dark&font=Gafata) 
 -->
 
-## Connect With Me
+### Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/meenakshi-madhu/">
@@ -69,7 +63,7 @@ My goal is to continually level up my skills and explore new technologies and id
 </p>
 
 
-## Outside Tech...
+### Outside Tech...
 
 When I'm not coding, you’ll probably find me:
 
