@@ -37,8 +37,10 @@ Ex Software Developer at [Citi](https://www.linkedin.com/company/citi-india/)
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+<!--
 ### GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=MeenakshiMadhu&theme=tokyonight)](https://git.io/streak-stats)
+-->
 
 <!--
 ## LeetCode Stats
