@@ -53,7 +53,7 @@ Ex Software Developer at [Citi](https://www.linkedin.com/company/citi-india/)
   <a href="https://www.linkedin.com/in/meenakshi-madhu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://meenakshimadhu.github.io/">
+  <a href="https://meenakshimadhu.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="mailto:meenakshimadhu00@gmail.com">
