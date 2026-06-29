@@ -59,7 +59,7 @@ Ex Software Developer at [Citi](https://www.linkedin.com/company/citi-india/)
   <a href="mailto:meenakshimadhu00@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href = "https://drive.google.com/file/d/1M5kWLbJq-vHS-nTel4gBjNofopy_bBBN/view?usp=sharing">
+  <a href = "https://drive.google.com/file/d/12n9Ts-7aQQ_cY0R4gYCjkCu7V7bNZ6V7/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
